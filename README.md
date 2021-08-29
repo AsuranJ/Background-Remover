@@ -13,11 +13,7 @@ Made with Python3
   <summary><b>Deploy on Heroku</b></summary>
 <br/>
 
-<p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Remove-BG-Bot">
-     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
-  </a>
-</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/AsuranJ/Background-Remover/)
 
 </details>
 ---
