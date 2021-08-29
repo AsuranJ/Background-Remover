@@ -6,12 +6,6 @@ A media background remover telegram bot with pyrogram framework.
 
 ```
 Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
-```
-
----
 
 ## Deploy
 
@@ -26,21 +20,6 @@ License -> https://github.com/FayasNoushad/Remove-BG-Bot/blob/main/LICENSE
 </p>
 
 </details>
-
-<details>
-  <summary><b>Deploy in your vps</b></summary>
-<br/>
-
-```sh
-git clone https://github.com/FayasNoushad/Remove-BG-Bot
-cd Remove-BG-Bot
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
-```
-
-</details>
-
 ---
 
 ## Variables
@@ -56,10 +35,3 @@ python3 main.py
 - `UNSCREEN_API` Your unscreen api from api.unscreen.com
 
 </details>
-
----
-
-## Credits
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
