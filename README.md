@@ -13,9 +13,9 @@ Made with Python3
   <summary><b>Deploy on Heroku</b></summary>
 <br/>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/AsuranJ/Background-Remover/)
-
 </details>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/AsuranJ/Background-Remover/)
 ---
 
 ## Variables
